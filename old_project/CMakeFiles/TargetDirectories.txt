@@ -1,0 +1,3 @@
+/home/tea21/projects/camera_projection/old_project/CMakeFiles/test_proj.dir
+/home/tea21/projects/camera_projection/old_project/CMakeFiles/edit_cache.dir
+/home/tea21/projects/camera_projection/old_project/CMakeFiles/rebuild_cache.dir
