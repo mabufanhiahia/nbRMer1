@@ -8,7 +8,7 @@ project(CameraProjection LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
-# 4. 头文件(.h)都藏在 include 文件夹里
+# 4. 头文件(.h)都藏在 include 文件夹
 include_directories(${PROJECT_SOURCE_DIR}/include)
 
 # 5. 帮我找找系统里有没有装 Eigen3 库
